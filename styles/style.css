@@ -87,12 +87,11 @@ main{
  /*-------------------------
      courses style 
   -------------------------*/
-  
+
   .course{
 	  display: grid;
 	  grid-template-columns: repeat(3, 1fr);
-	  
-  }
+ }
   .course-baner{
 	  width: 252.42px;
 	  border-radius: 10px;
